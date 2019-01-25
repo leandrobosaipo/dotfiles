@@ -1,4 +1,4 @@
 # Install
 ```bash
-brew cask install react-native-debugger
+npm install -g react-native-cli
 ```
